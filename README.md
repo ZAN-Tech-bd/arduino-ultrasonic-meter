@@ -20,6 +20,10 @@ An Arduino-based digital rangefinder that measures distance in real time using a
 
 ## 🔌 Wiring
 
+### Pictorial Wiring Diagram
+
+![Ultrasonic Distance Meter pictorial wiring diagram](Ultrasonic%20Arduino%20Radar%20System%20Public%20pictorial%20wiring%20diagram%20%281%29.png)
+
 ### HC-SR04 Ultrasonic Sensor
 
 | Sensor Pin | Arduino Pin     |
